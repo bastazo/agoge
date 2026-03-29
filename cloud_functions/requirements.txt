@@ -1,5 +1,5 @@
 canvasapi==3.2.0
-cryptography==46.0.5
+cryptography==46.0.6
 functions-framework==3.5.0
 google-api-core==2.18.0
 google-api-python-client==2.123.0
